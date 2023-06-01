@@ -1,1 +1,1 @@
-# Accelerate-sd_dreambooth_training
+# Accelerate_sd_dreambooth_training
